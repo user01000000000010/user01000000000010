@@ -10,10 +10,3 @@ Currently exploring Hopper (`sm_90`) primitives — focusing on asynchronous dat
 ### Projects
 - **[CUDA](https://github.com/user01000000000010/CUDA)** — High-performance acceleration library implementing FlashAttention-3, DeepSeek-style MLA, FP8 PagedAttention, and fully fused in-SRAM blocks.
 
----
-
-### ⏱️ Activity & 24h Distribution
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=user01000000000010&theme=github_dark" alt="Activity Details" width="100%" />
-</div>
-
