@@ -1,8 +1,7 @@
 <div align="center">
   <img src="profile_header.jpg" alt="Profile Banner" width="100%" style="border-radius: 12px;" />
 
-  # Hi there, I'm Ara 👋
-  ### High-Performance Computing • CUDA & AI Kernel Engineer • Systems Architecture
+  <br />
 
   <p align="center">
     <img src="https://img.shields.io/badge/CUDA-12.0+-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
@@ -14,10 +13,10 @@
 
 ---
 
-### ⚡ About Me
-- 🔭 **Currently Building:** High-performance Hopper (`sm_90`) & Ampere GPU acceleration kernels for LLMs.
+### ⚡ Overview
+- 🔭 **Focus:** High-performance Hopper (`sm_90`) & Ampere GPU acceleration kernels for LLMs.
 - 🚀 **Specializations:** FlashAttention-3, Warp-Specialized TMA, Multi-Head Latent Attention (MLA), FP8 PagedAttention & In-SRAM Fused Transformer blocks.
-- 💡 **Philosophy:** Eliminating memory bandwidth bottlenecks through Tile IR, asynchronous hardware pipelines, and minimal HBM roundtrips.
+- 💡 **Architecture:** Eliminating memory bandwidth bottlenecks through Tile IR, asynchronous hardware pipelines, and minimal HBM roundtrips.
 
 ---
 
