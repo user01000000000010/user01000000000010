@@ -1,8 +1,7 @@
 sthlm born and raised. kurdish background. mscs stud @ kth.
 
 
-when i'm not studying, i'm side-questing on low-level gpu acceleration, custom cuda kernels. why? because money. 
-
+when i'm not studying, i'm side-questing on low-level gpu acceleration, custom cuda kernels. why? because that's where future's at. 
 when i'm not doing the latter, i'm daydreaming.
 
 
