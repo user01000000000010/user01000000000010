@@ -3,7 +3,7 @@
   <br />
 </div>
 
-working on low-level gpu acceleration, custom cuda kernels, why? because and memory-bound optimizations for modern transformer architectures.
+sthlm born and raised. mscs & kth. working on low-level gpu acceleration, custom cuda kernels, why? because and memory-bound optimizations for modern transformer architectures. a very low-iq individual however i let my hard work compensate for that.
 
 currently exploring hopper (`sm_90`) primitives — focusing on asynchronous data movement with Tile IR, TMA bulk transfers, and hardware barriers to hide memory latency during attention and decode phases.
 
