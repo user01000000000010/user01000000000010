@@ -6,7 +6,7 @@ i have started to explore the primitives of the 'hopper' (`sm_90`) — focusing 
 not affiliated with any center, although i'm open to join as a remote intermittent.
 i'm also open to network with individuals regardless of path.
 
-project
+my open project
 **[CUDA](https://github.com/user01000000000010/CUDA)** — high-performance acceleration library implementing flashattention-3, deepseek-style mla, fp8 pagedattention, and fully fused in-sram blocks. feel free to contribute.
 
 my advice to the young ones is to go for engineering physics / engineering mathematics.
