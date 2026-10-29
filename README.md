@@ -1,4 +1,6 @@
-sthlm born and raised. kurdish background. mscs stud @ kth. when i'm not studying, i do low-level gpu acceleration and custom cuda kernels.
+sthlm born and raised. kurdish background. mscs stud @ kth.
+
+when i'm not studying, i do low-level gpu acceleration and custom cuda kernels.
 i have started to explore the primitives of the hopper (`sm_90`) — focusing on asynchronous data movement with tile ir, tma bulk transfers, and hardware barriers to hide memory latency during attention and decode phases. check my project and contribute.
 
 open for networking with people regardless of career track. 
