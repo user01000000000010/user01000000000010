@@ -3,7 +3,7 @@
   <br />
 </div>
 
-sthlm born and raised. mscs & kth. a very low-iq individual however i let my hard work compensate for that. currently working on low-level gpu acceleration, custom cuda kernels.
+sthlm born and raised. mscs & kth. a very low-iq individual however i let my hard work compensate for that. when i'm not studying, i am usually working on low-level gpu acceleration, custom cuda kernels.
 
 currently exploring hopper (`sm_90`) primitives — focusing on asynchronous data movement with Tile IR, TMA bulk transfers, and hardware barriers to hide memory latency during attention and decode phases.
 
