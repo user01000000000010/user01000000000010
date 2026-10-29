@@ -5,10 +5,10 @@
 
 sthlm born and raised. kurdish background. mscs stud @ kth.
 
-when i'm not studying, i'm usually working on low-level gpu acceleration, custom cuda kernels, simply because that's what the future will be about.
+when i'm not studying, i'm side-questing on low-level gpu acceleration, custom cuda kernels. why? because money. 
 when i'm not doing the latter, i'm daydreaming.
 
-currently exploring hopper (`sm_90`) primitives (which i really shouldn't be doing since i'm just a mscs stud) — focusing on asynchronous data movement with Tile IR, TMA bulk transfers, and hardware barriers to hide memory latency during attention and decode phases. check my project and contribute.
+currently exploring hopper (`sm_90`) primitives (which i really shouldn't be doing since i'm just a mscs stud) — focusing on asynchronous data movement with tile ir, tma bulk transfers, and hardware barriers to hide memory latency during attention and decode phases. check my project and contribute.
 
 open for networking with people regardless of career track. 
 
