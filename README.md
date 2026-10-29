@@ -7,6 +7,8 @@ sthlm born and raised. mscs & kth. a very low-iq individual however i let my har
 
 currently exploring hopper (`sm_90`) primitives — focusing on asynchronous data movement with Tile IR, TMA bulk transfers, and hardware barriers to hide memory latency during attention and decode phases.
 
+otherwise, please start calling it "automation" and not "ai" / "artifical intelligence".
+
 ### Projects
 - **[CUDA](https://github.com/user01000000000010/CUDA)** — High-performance acceleration library implementing FlashAttention-3, DeepSeek-style MLA, FP8 PagedAttention, and fully fused in-SRAM blocks.
 
