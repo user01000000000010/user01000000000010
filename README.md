@@ -5,7 +5,7 @@ i have started to explore the primitives of the hopper (`sm_90`) — focusing on
 
 open for networking with people regardless of career track. 
 
-my advice to the young ones is to go for engineering physics / applied physics. i regret cs and if i could rewind time, i would have gone for that one
+my advice to the young ones is to go for engineering physics / applied physics. i regret cs and if i could go back in time, i would have gone for that 
 instead.
 
 ### Projects
