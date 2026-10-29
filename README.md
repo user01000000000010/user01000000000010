@@ -1,7 +1,7 @@
 sthlm born and raised. kurdish background. mscs stud @ kth.
 
 when i'm not studying, i do low-level gpu acceleration and custom cuda kernels.
-i have started to explore the primitives of the 'Hopper' (`sm_90`) — focusing on asynchronous data movement with tile ir, tma bulk transfers, and hardware barriers to hide memory latency during attention and decode phases.
+i have started to explore the primitives of the 'hopper' (`sm_90`) — focusing on asynchronous data movement with tile ir, tma bulk transfers, and hardware barriers to hide memory latency during attention and decode phases.
 
 not affiliated with any center, although i'm open to join as a remote intermittent.
 also open to network with individuals regardless of path.
