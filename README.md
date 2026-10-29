@@ -3,7 +3,7 @@
   <br />
 </div>
 
-sthlm born and raised. mscs & kth. a very low-iq individual however i let my hard work compensate for that. when i'm not studying, i am usually working on low-level gpu acceleration, custom cuda kernels. when i don't do the latter, i enjoy playing tennis and drive fast in my tesla.
+sthlm born and raised. kurdish background. mscs & kth. a very low-iq individual however i let my hard work compensate for that. when i'm not studying, i am usually working on low-level gpu acceleration, custom cuda kernels. when i don't do the latter, i enjoy playing tennis and drive fast in my tesla.
 
 currently exploring hopper (`sm_90`) primitives — focusing on asynchronous data movement with Tile IR, TMA bulk transfers, and hardware barriers to hide memory latency during attention and decode phases.
 
